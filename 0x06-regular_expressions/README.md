@@ -1,4 +1,4 @@
-<h2>Regular expression</h2>
+<h2>Regular Expression</h2>
 Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about how to build a regular expression.
 
 Technologies
